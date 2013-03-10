@@ -1,10 +1,10 @@
 require 'formula'
 
 class MacvimSplitBrowser < Formula
-  homepage 'https://github.com/b4winckler/macvim'
-  url 'https://github.com/b4winckler/macvim/tarball/1ba220ad3da69e3607a7e36b97c66e43bca68790'
-  version '20130207'
-  md5 'cab1e710012faffe62da027c40709f93'
+  homepage 'https://github.com/alloy/macvim/'
+  url 'https://github.com/alloy/macvim/tarball/10e7bedcdb051833257ab4f6a437c4f09bc6d881'
+  version '20121021'
+  md5 'cae8566138c5c991a07f67ecaa010f73'
 
   head 'https://github.com/alloy/macvim.git', :branch => 'split-browser'
 
